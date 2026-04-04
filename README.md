@@ -4,6 +4,21 @@
 > Marketing API: official docs, SDKs, tutorials, and tooling.
 > Maintained by [Julian Reiter](https://github.com/ArtificialIntelligentGeneration).
 
+
+[![License: CC0](https://img.shields.io/badge/license-CC0-blue.svg)](LICENSE)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
+
+## Contents
+
+- [Official](#official)
+- [Official SDKs](#official-sdks)
+- [Reporting permission category](#reporting-permission-category)
+- [Tutorials & write-ups](#tutorials--write-ups)
+- [Open-source tools](#open-source-tools)
+- [Community / forums](#community--forums)
+- [Compliance / policy reading](#compliance--policy-reading)
+- [Contributing](#contributing)
+
 ## Official
 
 - [TikTok for Business Marketing API portal](https://business-api.tiktok.com/portal/) — where you create apps and request permission categories.

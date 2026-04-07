@@ -40,6 +40,9 @@
 - [Report endpoint reference](https://business-api.tiktok.com/portal/docs?id=1738864928947202) — `/report/integrated/get/`.
 - [Available metrics](https://business-api.tiktok.com/portal/docs?id=1738864928947202) — spend, clicks, impressions, conversions, derived ratios.
 - [Dimensions](https://business-api.tiktok.com/portal/docs?id=1738864928947202) — campaign, ad group, ad, country, placement.
+
+> **Rate-limit cheatsheet (Reporting category):** ~1 request/sec per advertiser, ~600/hr per app. Async report endpoint exempts the synchronous size cap (~30 days × 100 dimensions).
+
 - [Async report endpoint](https://business-api.tiktok.com/portal/docs?id=1738864928947202) — for queries above the synchronous size cap.
 
 ## Tutorials & write-ups

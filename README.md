@@ -60,6 +60,13 @@
 - [TikTok for Business Help Center](https://business.tiktok.com/help/) — non-developer support.
 - [TikTok Developer Community on Discord](https://discord.gg/tiktok-developers) — unofficial, but most useful real-time channel.
 
+
+## Data protection
+
+- TikTok Marketing API returns aggregated metrics (no end-user PII); no DSR (data-subject-request) handling required for Reporting category.
+- Tokens are advertiser-scoped — one OAuth grant per advertiser, store encrypted at rest.
+- TikTok's [API privacy supplement](https://business-api.tiktok.com/portal/docs?id=1738864928947202) is the source of truth for retention rules.
+
 ## Compliance / policy reading
 
 - [TikTok Developer Terms of Service](https://developers.tiktok.com/doc/tiktok-api-terms-of-service/).

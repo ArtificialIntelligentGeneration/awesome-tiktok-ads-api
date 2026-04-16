@@ -47,7 +47,7 @@
 
 ## Tutorials & write-ups
 
-- [How to pull TikTok Ads reports to Google Sheets](https://aigen-agency.com/blog/tiktok-ads-google-sheets) — step-by-step, uses [aigen-reports](https://github.com/ArtificialIntelligentGeneration/aigen-reports).
+- [How to pull TikTok Ads reports to Google Sheets](https://dev.to/julianreiter/how-to-pull-tiktok-ads-reports-straight-into-google-sheets-4opi) — step-by-step, uses [aigen-reports](https://github.com/ArtificialIntelligentGeneration/aigen-reports).
 - Add a tutorial here? Open a PR.
 
 ## Open-source tools

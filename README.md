@@ -2,7 +2,7 @@
 
 > Curated list of resources for working with the TikTok for Business
 > Marketing API: official docs, SDKs, tutorials, and tooling.
-> Maintained by [Julian Reiter](https://github.com/ArtificialIntelligentGeneration).
+> Maintained by [Hermann Saliter](https://github.com/ArtificialIntelligentGeneration).
 
 
 [![License: CC0](https://img.shields.io/badge/license-CC0-blue.svg)](LICENSE)
